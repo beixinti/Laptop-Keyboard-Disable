@@ -2,6 +2,11 @@
 
 此方法可用于需要把外接键盘放在笔记本上面的情况。
 
+## 适用系统
+
+- Windows 笔电。  
+测试通过：Windows 11 x64
+
 ## 下载
 [在 Release 中下载 source code.zip](https://github.com/beixinti/Laptop-Keyboard-Disable/releases)
 
@@ -10,6 +15,11 @@
 1. 解压；
 2. 右键以管理员身份运行 `disable.bat` 即可禁用笔记本自带键盘;
 3. 右键以管理员身份运行 `enable.bat` 即可恢复键盘使用。
+
+## 已知问题
+
+部分机型会一并禁用触控板。
+
 
 ## 手动部署
 
